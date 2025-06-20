@@ -60868,7 +60868,7 @@ s=o*0.04
 r=o*0.025
 return A.adx(q,B.m,A.a9c(!0,new A.DY(A.Na(new A.ib(new A.by(p,s,p,s),A.ajT(A.c([new A.zw(new A.q1("assets/logo.png"),n*0.15,q),A.m3(q,o*0.03,q),A.En("NEXYRA",A.jV(q,q,B.bU,q,q,q,q,q,q,q,q,n*0.08,q,q,B.dI,q,q,!0,q,q,q,q,q,q,q,q),q),A.m3(q,o*0.01,q),A.En("Creamos tu estilo\ntu haces la historia.",A.jV(q,q,B.bU,q,q,q,q,q,q,q,q,n*0.045,q,q,B.Z,q,q,!0,q,q,q,q,q,q,q,q),B.ex),A.m3(q,o*0.05,q),new A.kL(B.zm,"Escr\xedbenos al WhatsApp",B.bU,B.bU,new A.RF(this),q),A.m3(q,r,q),new A.kL(B.zo,"S\xedguenos en Facebook",B.e1,B.e1,new A.RG(this),q),A.m3(q,r,q),new A.kL(B.zl,"S\xedguenos en Instagram",B.bU,B.bU,new A.RH(this),q),A.m3(q,r,q),new A.kL(B.zp,"Nuestros proyectos",B.e1,B.e1,new A.RI(a),q),A.m3(q,s,q)],t.af),B.bT),q),q,q),q),B.aG,!0))}}
 A.RF.prototype={
-$0(){return this.a.jE("https://wa.me/6565310943")},
+$0(){return this.a.jE("https://wa.me/526565310943")},
 $S:0}
 A.RG.prototype={
 $0(){return this.a.jE("https://www.facebook.com/profile.php?id=61577368476985&notif_id=1750390962711393&notif_t=follower_invite&ref=notif&locale=es_LA")},
